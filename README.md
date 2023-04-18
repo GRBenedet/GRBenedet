@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do GRBenedet 😁
 
  <div>
-   <a href="https://github.com/GRBenedet">
+   <a href="https://github-readme-stats-ten-gilt.vercel.app">
    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=GRBenedet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRBenedet&layout=compact&langs_count=6&theme=tokyonight"/>
 
